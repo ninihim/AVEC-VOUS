@@ -92,6 +92,10 @@ footer {
   color: white;
 }
 
+.slide-image {
+  padding-top: 62px;
+}
+
 @media screen and (max-width: 48rem) {
   .inner-footer {
     display: block;
